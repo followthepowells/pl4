@@ -3,5 +3,7 @@
 Duration in minutes: 120<br>
 <h3>Activities:</h3>
 - [ ] Learned how to create a log
-- [ ] Created this markdown editor to log all my tasks:  https://followthepowells.github.io/pl4/
+- [ ] 
+- [ ] 
+- [ ] - [ ] Created this markdown editor to log all my tasks:  https://followthepowells.github.io/pl4/
 - [ ] Started an EC2 Virtual Machine using this instruction provided in D2L: https://followthepowells.github.io/pl4/AWS%20EC2%20Startup%20Instructions.pdf
