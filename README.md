@@ -1,6 +1,6 @@
 # Week 7 Check List
 <h2>Date: March 8th, 2022</h2>
-Duration in minutes: 120<br>
+Duration in minutes: 150<br>
 <h3>Activities:</h3>
 
 
