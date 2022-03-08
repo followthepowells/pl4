@@ -8,7 +8,8 @@ Duration in minutes: 180<br>
 - [X] Created this markdown editor to log all my tasks https://followthepowells.github.io/pl4/
 - [X] Started an EC2 Virtual Machine using this instruction https://followthepowells.github.io/pl4/AWS%20EC2%20Startup%20Instructions.pdf
 - [X] Logged into Remote Desktop Connection Username: .\administrator Password: !!Fleming2021 
-- [X] Logged into ArcGIS Server Manager https://gisserver1.duckdns.org:6443/arcgis/manager/ Username: siteadmin Password: Fleming2021!!
+- [X] Logged into ArcGIS Server Manager https://gisserver1.duckdns.org:6443/arcgis/manager/ <br>
+      Username: siteadmin Password: Fleming2021!!
 - [ ] Read and Play: Server Services and your EC2
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm <br>
