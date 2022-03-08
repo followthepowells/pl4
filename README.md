@@ -16,15 +16,15 @@ Duration in minutes: 120<br>
       EC2 Feature Layer https://3.216.134.75:6443/arcgis/rest/services/SampleWorldCities/MapServer/1
       ArcGIS Online Web Map https://fleming.maps.arcgis.com/home/item.html?id=b1cffd91f4274737bfc546acd4b7a7c0
 - [X] Published Canada service to your own AWS EC2 
-      1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis
-      ![image](https://user-images.githubusercontent.com/91283924/157293972-35b5b73a-1a9f-4bf1-9510-4e67e98beb45.png)
-      2) Copied the Canada Map shapefile to Remote Desktop
-      3) Register Data Store
-      ![image](https://user-images.githubusercontent.com/91283924/157294555-465a1dc1-40ba-47ce-ae79-103fa9977098.png)
-      5) Published Map Service
-      ![image](https://user-images.githubusercontent.com/91283924/157294166-c563097d-3ff9-4195-ab0b-4c215ac770eb.png)
-      ![image](https://user-images.githubusercontent.com/91283924/157294788-3c620862-01b0-45bb-a299-69de6af2f4a1.png)
-      6) Checked the newly published Canada Map https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer
+      1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis <br>
+      ![image](https://user-images.githubusercontent.com/91283924/157293972-35b5b73a-1a9f-4bf1-9510-4e67e98beb45.png) <br>
+      2) Copied the Canada Map shapefile to Remote Desktop <br>
+      3) Register Data Store <br>
+      ![image](https://user-images.githubusercontent.com/91283924/157294555-465a1dc1-40ba-47ce-ae79-103fa9977098.png) <br>
+      5) Published Map Service <br>
+      ![image](https://user-images.githubusercontent.com/91283924/157294166-c563097d-3ff9-4195-ab0b-4c215ac770eb.png) <br>
+      ![image](https://user-images.githubusercontent.com/91283924/157294788-3c620862-01b0-45bb-a299-69de6af2f4a1.png) <br>
+      6) Checked the newly published Canada Map https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer <br>
 
 ![image](https://user-images.githubusercontent.com/91283924/157293027-b34c23a7-cff4-4043-b237-b2fe97a134e5.png)
 
