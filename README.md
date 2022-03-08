@@ -14,4 +14,7 @@ Duration in minutes: 120<br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 - [X] Published Canada service to your own AWS EC2
 
+![image](https://user-images.githubusercontent.com/91283924/157273896-0b7b8136-c93a-4d83-bbd7-ee38ebb6575d.png)
+
+
 - [X] Logged into [Duck DNS](https://www.duckdns.org/)
