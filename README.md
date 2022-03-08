@@ -26,9 +26,6 @@ Duration in minutes: 120<br>
       ![image](https://user-images.githubusercontent.com/91283924/157294788-3c620862-01b0-45bb-a299-69de6af2f4a1.png) <br>
       6) Checked the newly published Canada Map https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer <br>
 
-![image](https://user-images.githubusercontent.com/91283924/157293027-b34c23a7-cff4-4043-b237-b2fe97a134e5.png)
-
-
 - [X] Create your own DuckDns https://www.duckdns.org/ 
 ![image](https://user-images.githubusercontent.com/91283924/157281188-63577f49-0715-4c0f-9630-aef84f2a93af.png)
 
