@@ -13,8 +13,10 @@ Duration in minutes: 150<br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 - [X] Published AWS EC2 feature layer to ArcGIS Online 
-      EC2 Feature Layer https://3.216.134.75:6443/arcgis/rest/services/SampleWorldCities/MapServer/1
-      ArcGIS Online Web Map https://fleming.maps.arcgis.com/home/item.html?id=b1cffd91f4274737bfc546acd4b7a7c0
+      EC2 Feature Layer https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer/0
+      ArcGIS Online Web Map https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=28a44be7b2d74f4db60ac226c56863e2
+      ![image](https://user-images.githubusercontent.com/91283924/157307552-a40b2791-fcbe-421b-9735-9173ba57fe66.png)
+
 - [X] Published Canada service to your own AWS EC2 
       1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis <br>
       ![image](https://user-images.githubusercontent.com/91283924/157293972-35b5b73a-1a9f-4bf1-9510-4e67e98beb45.png) <br>
