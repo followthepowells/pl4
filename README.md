@@ -12,6 +12,7 @@ Duration in minutes: 180<br>
 - [ ] Read and Play: Server Services and your EC2
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm <br>
+      
 - [X] Published AWS EC2 feature layer to ArcGIS Online <br> 
       EC2 Feature Layer https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer/0 <br>
       ArcGIS Online Web Map https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=28a44be7b2d74f4db60ac226c56863e2
