@@ -2,6 +2,12 @@
 <h2>Date: March 8th, 2022</h2>
 Duration in minutes: 120<br>
 <h3>Activities:</h3>
+
+
+- [X] [Read: ArcGIS Enterprice ](https://enterprise.arcgis.com/en/get-started/latest/windows/what-is-arcgis-enterprise-.htm) 
+- [ ] [Review: Clients for ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/portal-clients.htm)
+
+
 - [ ] Learned how to create a log
 - [ ] 
 - [ ] 
