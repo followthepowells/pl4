@@ -20,7 +20,11 @@ Duration in minutes: 120<br>
 ![image](https://user-images.githubusercontent.com/91283924/157273896-0b7b8136-c93a-4d83-bbd7-ee38ebb6575d.png)
 
 
-- [X] Create your own DuckDns and obtain an SSL certificate https://www.duckdns.org/ <br>
-      http://gisserver1.duckdns.org/
+- [X] Create your own DuckDns https://www.duckdns.org/ 
 ![image](https://user-images.githubusercontent.com/91283924/157281188-63577f49-0715-4c0f-9630-aef84f2a93af.png)
 
+- [X] Pre-installed program WIN-ACME to request a "Let's Encrypt" SSL certificate for EC2
+![image](https://user-images.githubusercontent.com/91283924/157283607-9795ee45-463f-42e0-a0af-538cb000a3cc.png)
+![image](https://user-images.githubusercontent.com/91283924/157284696-5b468a5b-13ac-4571-8abe-d7c25a27ca29.png)
+
+- [X] Obtain an SSL certificate https://gisserver1.duckdns.org/
