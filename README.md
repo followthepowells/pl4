@@ -28,3 +28,5 @@ Duration in minutes: 120<br>
 ![image](https://user-images.githubusercontent.com/91283924/157284696-5b468a5b-13ac-4571-8abe-d7c25a27ca29.png)
 
 - [X] Obtain an SSL certificate https://gisserver1.duckdns.org/
+![image](https://user-images.githubusercontent.com/91283924/157285500-17edd5a3-6283-48b1-a9de-ee720379f22b.png)
+
