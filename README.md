@@ -10,7 +10,7 @@ Duration in minutes: 120<br>
 - [X] Logged into Remote Desktop Connection Username: .\administrator | Password: !!Fleming2021
 - [X] Logged into ArcGIS Server Manager https://3.216.134.75:6443/arcgis/manager/ Username: siteadmin | Password: Fleming2021!!
 - [ ] Read and Play: Server Services and your EC2
-      https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm
+      https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 
 - [X] Looged into [Duck DNS](https://www.duckdns.org/)
