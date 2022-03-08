@@ -30,5 +30,5 @@ Duration in minutes: 120<br>
 - [X] Obtain an SSL certificate https://gisserver1.duckdns.org/
 ![image](https://user-images.githubusercontent.com/91283924/157285500-17edd5a3-6283-48b1-a9de-ee720379f22b.png)
 
-- [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org/arcgis/rest/services
+- [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org:6443/arcgis
 
