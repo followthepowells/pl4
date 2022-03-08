@@ -4,8 +4,8 @@ Duration in minutes: 120<br>
 <h3>Activities:</h3>
 
 
-- [X] [Read: ArcGIS Enterprice ](https://enterprise.arcgis.com/en/get-started/latest/windows/what-is-arcgis-enterprise-.htm) 
-- [ ] [Review: Clients for ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/portal-clients.htm)
+- [X] Learned how to create a log
+- [ ] Created this markdown editor to log all my tasks:  https://followthepowells.github.io/pl4/
 
 
 - [ ] Learned how to create a log
