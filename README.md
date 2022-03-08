@@ -31,14 +31,14 @@ Duration in minutes: 180<br>
             REST URL:	https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer <br>
             SOAP URL:	https://gisserver1.duckdns.org:6443/arcgis/services/CanadaMap/MapServer <br>
 
-- [X] Create your own DuckDns https://www.duckdns.org/ 
+- [X] Created your own DuckDns https://www.duckdns.org/ 
 ![image](https://user-images.githubusercontent.com/91283924/157281188-63577f49-0715-4c0f-9630-aef84f2a93af.png)
 
 - [X] Pre-installed program WIN-ACME to request a "Let's Encrypt" SSL certificate for EC2
 ![image](https://user-images.githubusercontent.com/91283924/157283607-9795ee45-463f-42e0-a0af-538cb000a3cc.png)
 ![image](https://user-images.githubusercontent.com/91283924/157284696-5b468a5b-13ac-4571-8abe-d7c25a27ca29.png)
 
-- [X] Obtain an SSL certificate https://gisserver1.duckdns.org/
+- [X] Obtained an SSL certificate https://gisserver1.duckdns.org/
 ![image](https://user-images.githubusercontent.com/91283924/157285500-17edd5a3-6283-48b1-a9de-ee720379f22b.png)
 
 - [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org:6443/arcgis
