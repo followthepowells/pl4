@@ -1,6 +1,7 @@
 # Week 7 Check List
-<h3>Date: March 8th, 2022</h3>
+<h2>Date: March 8th, 2022</h2>
 Duration in minutes: 120<br>
-Activities:<br>
+<h3>Activities:</h3>
 [X] Learned how to create a log<br>
-    [X] Created this markdown editor to log all my tasks:  https://followthepowells.github.io/pl4/
+[X] Created this markdown editor to log all my tasks  https://followthepowells.github.io/pl4/
+
