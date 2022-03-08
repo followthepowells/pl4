@@ -12,5 +12,6 @@ Duration in minutes: 120<br>
 - [ ] Read and Play: Server Services and your EC2
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
+- [X] Publish Canada service to your own AWS EC2
 
-- [X] Looged into [Duck DNS](https://www.duckdns.org/)
+- [X] Logged into [Duck DNS](https://www.duckdns.org/)
