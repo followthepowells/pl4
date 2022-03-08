@@ -20,4 +20,6 @@ Duration in minutes: 120<br>
 ![image](https://user-images.githubusercontent.com/91283924/157273896-0b7b8136-c93a-4d83-bbd7-ee38ebb6575d.png)
 
 
-- [X] Logged into [Duck DNS](https://www.duckdns.org/)
+- [X] Logged into [Duck DNS](https://www.duckdns.org/) http://gisserver1.duckdns.org/
+![image](https://user-images.githubusercontent.com/91283924/157281188-63577f49-0715-4c0f-9630-aef84f2a93af.png)
+
