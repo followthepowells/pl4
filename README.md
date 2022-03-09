@@ -41,7 +41,7 @@ Duration in minutes: 180<br>
 
 - [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org:6443/arcgis
 
-
+<br>
 <h2>Date: March 9th, 2022</h2>
 Duration in minutes: 60<br>
 <h3>Activities:</h3>
