@@ -3,7 +3,6 @@
 Duration in minutes: 180<br>
 <h3>Activities:</h3>
 
-
 - [X] Learned how to create a log
 - [X] Created this markdown editor to log all my tasks https://followthepowells.github.io/pl4/
 - [X] Started an EC2 Virtual Machine using this instruction https://followthepowells.github.io/pl4/AWS%20EC2%20Startup%20Instructions.pdf
@@ -45,6 +44,7 @@ Duration in minutes: 180<br>
 <h2>Date: March 9th, 2022</h2>
 Duration in minutes: 60<br>
 <h3>Activities:</h3>
+
 - [X] Learned the basics of ArcGIS Enterprise and Portal by watching https://www.youtube.com/watch?v=KItDcnDQce0
 - [X] Read and Play: Server Services and your EC2    
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
