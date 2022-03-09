@@ -45,6 +45,7 @@ Duration in minutes: 180<br>
 <h2>Date: March 9th, 2022</h2>
 Duration in minutes: 60<br>
 <h3>Activities:</h3>
+
 - [X] Learned the basics of ArcGIS Enterprise and Portal by watching https://www.youtube.com/watch?v=KItDcnDQce0
 
 - [X] Read and Play: Server Services and your EC2    
