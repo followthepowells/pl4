@@ -49,4 +49,11 @@ Duration in minutes: 60<br>
 - [X] Read and Play: Server Services and your EC2    
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm <br>
+ 
+<br>
+<h2>Date: March 21st, 2022</h2>
+Duration in minutes: 60 <br>
+<h3>Activities:</h3>     
+
+- [X] [Explored WebApp Builder by loading an existing map from ArcGIS, adding widgets and launching it.](https://fleming.maps.arcgis.com/apps/webappviewer/index.html?id=020576bac19842fa9c442a90f7244c2b)
       
