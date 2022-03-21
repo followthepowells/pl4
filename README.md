@@ -58,5 +58,5 @@ Duration in minutes: 60 <br>
 - [X] [Explored WebApp Builder by loading an existing map from ArcGIS, adding widgets and launching it.](https://fleming.maps.arcgis.com/apps/webappviewer/index.html?id=020576bac19842fa9c442a90f7244c2b)
 
 Duration in minutes: 50 <br>
-- [X] Met with the group to discuss our "Problem Statment"
+- [X] Met with the group to discuss our "Problem Statement"
       
