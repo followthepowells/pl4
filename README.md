@@ -57,6 +57,6 @@ Duration in minutes: 60<br>
 Duration in minutes: 60 <br>
 - [X] [Explored WebApp Builder by loading an existing map from ArcGIS, adding widgets and launching it.](https://fleming.maps.arcgis.com/apps/webappviewer/index.html?id=020576bac19842fa9c442a90f7244c2b)
 
-Duration in minutes: 30 <br>
-- [X] Met with the group to decide on what solution to choose - most are choosing Dashboard and Story Map
+Duration in minutes: 50 <br>
+- [X] Met with the group to discuss our "Problem Statment"
       
