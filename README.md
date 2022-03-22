@@ -42,6 +42,7 @@ Duration in minutes: 180<br>
       6) Checked the newly published Canada Map <br>
             REST URL:	https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer <br>
             SOAP URL:	https://gisserver1.duckdns.org:6443/arcgis/services/CanadaMap/MapServer <br>
+      ![image](https://user-images.githubusercontent.com/91283924/159547296-bcadf115-997f-4eb5-8343-a6707d8979f9.png)
 
 <br>
 <h2>Date: March 9th, 2022</h2>
