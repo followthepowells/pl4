@@ -26,6 +26,8 @@ Duration in minutes: 180<br>
 
 - [X] Logged into ArcGIS Server Manager https://gisserver1.duckdns.org:6443/arcgis/manager/ <br>
       Username: siteadmin Password: Fleming2021!!
+      ![image](https://user-images.githubusercontent.com/91283924/159546774-56d4aefa-de90-46e2-a6aa-73f6f9383291.png)
+
 - [X] Published AWS EC2 feature layer to ArcGIS Online <br> 
       EC2 Feature Layer https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer/0 <br>
       ArcGIS Online Web Map https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=28a44be7b2d74f4db60ac226c56863e2
