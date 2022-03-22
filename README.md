@@ -7,8 +7,8 @@ Duration in minutes: 180<br>
 - [X] Created this markdown editor to log all my tasks https://followthepowells.github.io/pl4/
 - [X] Started an EC2 Virtual Machine using this instruction https://followthepowells.github.io/pl4/AWS%20EC2%20Startup%20Instructions.pdf
   ![image](https://user-images.githubusercontent.com/91283924/159542801-84271e6b-de10-4949-819f-b87e31d27e6c.png)
-- [X] Created your own DuckDns https://www.duckdns.org/ 
-![image](https://user-images.githubusercontent.com/91283924/157281188-63577f49-0715-4c0f-9630-aef84f2a93af.png)
+- [X] Created your own DuckDns https://www.duckdns.org/ and update the "current ip"
+  ![image](https://user-images.githubusercontent.com/91283924/159543272-3e9f0706-3302-49f9-9f0d-9e4cdbf21afa.png)
 
 - [X] Pre-installed program WIN-ACME to request a "Let's Encrypt" SSL certificate for EC2
 ![image](https://user-images.githubusercontent.com/91283924/157283607-9795ee45-463f-42e0-a0af-538cb000a3cc.png)
