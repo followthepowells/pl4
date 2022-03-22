@@ -30,7 +30,7 @@ Duration in minutes: 180<br>
       ArcGIS Online Web Map https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=28a44be7b2d74f4db60ac226c56863e2
       ![image](https://user-images.githubusercontent.com/91283924/159548227-938cbe30-9f93-42e2-a3e0-4736dedbbbe4.png)
 
-- [X] Published Canada service to your own AWS EC2 
+- [X] Published Canada service to your own AWS EC2 <br>
       1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis <br>
       ![image](https://user-images.githubusercontent.com/91283924/157293972-35b5b73a-1a9f-4bf1-9510-4e67e98beb45.png) <br>
       2) Copied the Canada Map shapefile to Remote Desktop <br>
