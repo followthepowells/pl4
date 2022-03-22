@@ -17,9 +17,6 @@ Duration in minutes: 180<br>
 - [X] Obtained an SSL certificate https://gisserver1.duckdns.org/
 ![image](https://user-images.githubusercontent.com/91283924/157285500-17edd5a3-6283-48b1-a9de-ee720379f22b.png)
 
-- [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org:6443/arcgis/manager/ Username:siteadmin Password:Fleming2021!! 
-  ![image](https://user-images.githubusercontent.com/91283924/159546550-047ecaa7-4c93-4d40-b885-867b31a45cce.png)
-
 - [X] Logged into Remote Desktop Connection <br>
       Initial login, Computer: ip address Username:.\administrator Password:!!Fleming2021   
       ![image](https://user-images.githubusercontent.com/91283924/159543862-fd015596-d290-4ecf-80f6-f81b00d34259.png)
