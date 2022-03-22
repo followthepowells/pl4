@@ -71,3 +71,6 @@ Duration in minutes: 50 <br>
 
 Duration in minutes: 5 <br>
 - [X] Created a Mapbox Account. Default Public Token: pk.eyJ1IjoiamFuZXBvdyIsImEiOiJjbDEwcjhkankyYjZ2M2NvYTgxNnk1YWp4In0.6_MOc4slaIJt9k0Yi9UGVQ
+- [X] Explored Experience Builder
+![image](https://user-images.githubusercontent.com/91283924/159562281-a9e9cca4-f8d0-4f1f-ad79-89aebacc3669.png)
+
