@@ -28,7 +28,7 @@ Duration in minutes: 180<br>
 - [X] Published AWS EC2 feature layer to ArcGIS Online <br> 
       EC2 Feature Layer https://gisserver1.duckdns.org:6443/arcgis/rest/services/CanadaMap/MapServer/0 <br>
       ArcGIS Online Web Map https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=28a44be7b2d74f4db60ac226c56863e2
-      ![image](https://user-images.githubusercontent.com/91283924/157307552-a40b2791-fcbe-421b-9735-9173ba57fe66.png)
+      ![image](https://user-images.githubusercontent.com/91283924/159548227-938cbe30-9f93-42e2-a3e0-4736dedbbbe4.png)
 
 - [X] Published Canada service to your own AWS EC2 
       1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis <br>
