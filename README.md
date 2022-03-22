@@ -34,7 +34,8 @@ Duration in minutes: 180<br>
       1) Inserted new ArcGIS Server https://gisserver1.duckdns.org:6443/arcgis <br>
       ![image](https://user-images.githubusercontent.com/91283924/157293972-35b5b73a-1a9f-4bf1-9510-4e67e98beb45.png) <br>
       2) Copied the Canada Map shapefile to Remote Desktop <br>
-      3) Register Data Store <br>
+      ![image](https://user-images.githubusercontent.com/91283924/159549171-a2d0ecae-f18e-4d3f-b691-a19b866b8151.png)
+      4) Register Data Store <br>
       ![image](https://user-images.githubusercontent.com/91283924/157294555-465a1dc1-40ba-47ce-ae79-103fa9977098.png) <br>
       5) Published Map Service <br>
       ![image](https://user-images.githubusercontent.com/91283924/157294166-c563097d-3ff9-4195-ab0b-4c215ac770eb.png) <br>
