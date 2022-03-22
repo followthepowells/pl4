@@ -20,7 +20,8 @@ Duration in minutes: 180<br>
 - [X] New ArcGIS Server Manager URL https://gisserver1.duckdns.org:6443/arcgis
 
 - [X] Logged into Remote Desktop Connection <br>
-      Username: .\administrator Password: !!Fleming2021 
+      ![image](https://user-images.githubusercontent.com/91283924/159543862-fd015596-d290-4ecf-80f6-f81b00d34259.png)
+
 - [X] Logged into ArcGIS Server Manager https://gisserver1.duckdns.org:6443/arcgis/manager/ <br>
       Username: siteadmin Password: Fleming2021!!
 - [X] Published AWS EC2 feature layer to ArcGIS Online <br> 
