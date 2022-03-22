@@ -6,6 +6,8 @@ Duration in minutes: 180<br>
 - [X] Learned how to create a log
 - [X] Created this markdown editor to log all my tasks https://followthepowells.github.io/pl4/
 - [X] Started an EC2 Virtual Machine using this instruction https://followthepowells.github.io/pl4/AWS%20EC2%20Startup%20Instructions.pdf
+  ![image](https://user-images.githubusercontent.com/91283924/159542801-84271e6b-de10-4949-819f-b87e31d27e6c.png)
+  
 - [X] Logged into Remote Desktop Connection <br>
       Username: .\administrator Password: !!Fleming2021 
 - [X] Logged into ArcGIS Server Manager https://gisserver1.duckdns.org:6443/arcgis/manager/ <br>
