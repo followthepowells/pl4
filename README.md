@@ -88,3 +88,8 @@ Duration in minutes: 60 <br>
 <h2>Date: March 23rd, 2022</h2>
 Duration in minutes: 30 <br>
 - [X] Met with the group to revise our "Problem Statement"
+
+Duration in minutes: 15 <br>
+- [X] Prepared a GeoJSON file for Feed Ontario Web Map Group Project
+![image](https://user-images.githubusercontent.com/91283924/159807674-7e82e3eb-1157-4111-95d7-2fac20aac972.png)
+
