@@ -53,7 +53,16 @@ Duration in minutes: 60<br>
 - [X] Read and Play: Server Services and your EC2    
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm <br>
       https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm <br>
+
  
+<br>
+<h2>Date: March 20th, 2022</h2>
+<h3>Activities:</h3>  
+
+Duration in minutes: 180 <br>
+- [X] [Explored ArcGIS Dashboard by completing our Assignment for GEOM109.](https://www.arcgis.com/apps/dashboards/cc7748c5a82444149ef8b8bd6d2c08d7)
+![image](https://user-images.githubusercontent.com/91283924/159698312-d1033715-23db-46c8-9d5c-ea2ef9692f66.png)
+
 <br>
 <h2>Date: March 21st, 2022</h2>
 <h3>Activities:</h3>  
