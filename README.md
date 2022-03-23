@@ -84,3 +84,7 @@ Duration in minutes: 60 <br>
 
 - [X] Created a Mapbox Account. Default Public Token: pk.eyJ1IjoiamFuZXBvdyIsImEiOiJjbDEwcjhkankyYjZ2M2NvYTgxNnk1YWp4In0.6_MOc4slaIJt9k0Yi9UGVQ
 
+<br>
+<h2>Date: March 23rd, 2022</h2>
+Duration in minutes: 30 <br>
+- [X] Met with the group to revise our "Problem Statement"
