@@ -89,7 +89,7 @@ Duration in minutes: 60 <br>
 Duration in minutes: 30 <br>
 - [X] Met with the group to revise our "Problem Statement"
 
-Duration in minutes: 15 <br>
+Duration in minutes: 20 <br>
 - [X] Prepared a GeoJSON file for Feed Ontario Web Map Group Project by downloading a shapefile from https://geohub.lio.gov.on.ca/ and converted it GeoJSON
 ![image](https://user-images.githubusercontent.com/91283924/159807674-7e82e3eb-1157-4111-95d7-2fac20aac972.png)
 ![image](https://user-images.githubusercontent.com/91283924/159809522-c0e7d6db-3ab1-4bcd-a832-88088a714de0.png)
