@@ -71,6 +71,6 @@ Duration in minutes: 50 <br>
 
 Duration in minutes: 60 <br>
 - [X] Created a Mapbox Account. Default Public Token: pk.eyJ1IjoiamFuZXBvdyIsImEiOiJjbDEwcjhkankyYjZ2M2NvYTgxNnk1YWp4In0.6_MOc4slaIJt9k0Yi9UGVQ
-- [X] Explored Experience Builder
+- [X] [Explored Experience Builder by creating the list of Province of Canada](https://experience.arcgis.com/experience/91f7bc7f8f1d440f930f0ae74cc16628?data_id=dataSource_2-17f411dfe5b-layer-2%3A12)
 ![image](https://user-images.githubusercontent.com/91283924/159601205-f9635bc8-81ab-4244-9d31-b0cb75e898eb.png)
 
