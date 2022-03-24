@@ -99,12 +99,13 @@ Duration in minutes: 80 <br>
   ![image](https://user-images.githubusercontent.com/91283924/159822512-e06ac102-a6da-46ec-894a-e43489ec32f0.png)
 - [X] Our group did our research in finding Population data https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001002&pickMembers%5B0%5D=1.117 
 
-Duration in minutes: 20<br>
+Duration in minutes: 25<br>
 - [X] Did ETL for our Population Data - Joined Electoral Riding Shapefile with Population CSV
   ![image](https://user-images.githubusercontent.com/91283924/159830932-794ebdf7-17ca-4111-bab7-3783d1cf74f6.png)
   ![image](https://user-images.githubusercontent.com/91283924/159830975-4e5f522b-b6bb-43c5-a262-725d991b1a5d.png)
 - [X] Shared to our group in [AGOL](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?layers=2108b199640a4979b50ce210db495919)
-  ![image](https://user-images.githubusercontent.com/91283924/159832078-41bc348d-bfc1-4d76-a911-6f0598d0372a.png)
+  ![image](https://user-images.githubusercontent.com/91283924/159834351-17cba85d-7c27-4c2a-8bd7-4a0163607c30.png)
+- [X] Check if all data needed were published!
   ![image](https://user-images.githubusercontent.com/91283924/159834176-e7705462-bab0-4c18-8e48-fe35a87355ba.png)
 
 
