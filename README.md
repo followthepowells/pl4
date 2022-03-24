@@ -91,7 +91,6 @@ Duration in minutes: 30 <br>
 
 Duration in minutes: 80 <br>
 - [X] Prepared a GeoJSON file for Feed Ontario Web Map Group Project by downloading a shapefile from https://geohub.lio.gov.on.ca/ and converted it GeoJSON
-![image](https://user-images.githubusercontent.com/91283924/159807674-7e82e3eb-1157-4111-95d7-2fac20aac972.png)
 ![image](https://user-images.githubusercontent.com/91283924/159809522-c0e7d6db-3ab1-4bcd-a832-88088a714de0.png)
 
 ....and it turns out I'm not looking at the right data. After an hour or so of research, I finally found this, the electoral riding boundary! Sent it to my team right away to have something to familiarize themselves as well. https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles/open-use-data-product-licence-agreement/download-shapefiles.html
