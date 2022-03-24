@@ -115,7 +115,8 @@ Duration in minutes: 20<br>
 https://open.toronto.ca/dataset/neighbourhood-crime-rates/
 https://data.torontopolice.on.ca/datasets/neighbourhood-crime-rates-2020-1/explore?location=43.734047%2C-79.416821%2C11.72
 https://open.toronto.ca/dataset/wellbeing-toronto-demographics-nhs-indicators/
-![image](https://user-images.githubusercontent.com/91283924/159952113-09e77bcf-07bf-4b9b-8e5f-6bc908ce553d.png)
+![image](https://user-images.githubusercontent.com/91283924/159952226-074c0ea5-3f08-4cee-ae24-6ddbc9b36973.png)
+
 
 
 
