@@ -103,7 +103,7 @@ Duration in minutes: 20<br>
 - [X] Did ETL for our Population Data - Joined Electoral Riding Shapefile with Population CSV
   ![image](https://user-images.githubusercontent.com/91283924/159830932-794ebdf7-17ca-4111-bab7-3783d1cf74f6.png)
   ![image](https://user-images.githubusercontent.com/91283924/159830975-4e5f522b-b6bb-43c5-a262-725d991b1a5d.png)
-- [X] Share to our group in [AGOL](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?layers=2108b199640a4979b50ce210db495919)
+- [X] Shared to our group in [AGOL](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?layers=2108b199640a4979b50ce210db495919)
   ![image](https://user-images.githubusercontent.com/91283924/159832078-41bc348d-bfc1-4d76-a911-6f0598d0372a.png)
   ![image](https://user-images.githubusercontent.com/91283924/159834176-e7705462-bab0-4c18-8e48-fe35a87355ba.png)
 
