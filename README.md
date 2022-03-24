@@ -96,8 +96,6 @@ Duration in minutes: 80 <br>
 
 ....and it turns out I'm not looking at the right data. After an hour or so of research, I finally found this, the electoral riding boundary! Sent it to my team right away to have something to familiarize themselves as well. https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles/open-use-data-product-licence-agreement/download-shapefiles.html
 ![image](https://user-images.githubusercontent.com/91283924/159816325-7d11ca76-ac2a-4cf5-8627-0a9c21684093.png)
-- [X] Uploaded to AGOL for fast sharing
-![image](https://user-images.githubusercontent.com/91283924/159816684-3898df65-4f6c-449a-9594-8420aee10a43.png)
 - [X] Bumped into this while doing my research as we need some Ontario Data. What an inspiring interface. It's built using [MountainMath Software](https://mountainmath.ca/)
   ![image](https://user-images.githubusercontent.com/91283924/159822512-e06ac102-a6da-46ec-894a-e43489ec32f0.png)
 - [X] Our group did our research in finding Population data https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001002&pickMembers%5B0%5D=1.117 
