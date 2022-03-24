@@ -102,7 +102,7 @@ Duration in minutes: 80 <br>
   ![image](https://user-images.githubusercontent.com/91283924/159822512-e06ac102-a6da-46ec-894a-e43489ec32f0.png)
 - [X] Our group did our research in finding Population data https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001002&pickMembers%5B0%5D=1.117 
 
-Duration in minutes: 15<br>
+Duration in minutes: 20<br>
 - [X] Did ETL for our Population Data - Joined Electoral Riding Shapefile with Population CSV
   ![image](https://user-images.githubusercontent.com/91283924/159830932-794ebdf7-17ca-4111-bab7-3783d1cf74f6.png)
   ![image](https://user-images.githubusercontent.com/91283924/159830975-4e5f522b-b6bb-43c5-a262-725d991b1a5d.png)
