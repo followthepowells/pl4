@@ -74,6 +74,7 @@ Duration in minutes: 60 <br>
 Duration in minutes: 50 <br>
 - [X] Met with the group to discuss our "Problem Statement"
 
+
 <br>
 <h2>Date: March 22nd, 2022</h2>
 <h3>Activities:</h3>  
