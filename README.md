@@ -93,6 +93,7 @@ Duration in minutes: 80 <br>
 - [X] Prepared a GeoJSON file for Feed Ontario Web Map Group Project by downloading a shapefile from https://geohub.lio.gov.on.ca/ and converted it GeoJSON
 ![image](https://user-images.githubusercontent.com/91283924/159807674-7e82e3eb-1157-4111-95d7-2fac20aac972.png)
 ![image](https://user-images.githubusercontent.com/91283924/159809522-c0e7d6db-3ab1-4bcd-a832-88088a714de0.png)
+
 ....and it turns out I'm not looking at the right data. After an hour or so of research, I finally found this, the electoral riding boundary! Sent it to my team right away to have something to familiarize themselves as well. https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles/open-use-data-product-licence-agreement/download-shapefiles.html
 ![image](https://user-images.githubusercontent.com/91283924/159816325-7d11ca76-ac2a-4cf5-8627-0a9c21684093.png)
 - [X] Uploaded to AGOL for fast sharing
@@ -100,6 +101,12 @@ Duration in minutes: 80 <br>
 - [X] Bumped into this while doing my research as we need some Ontario Data. What an inspiring interface. It's built using [MountainMath Software](https://mountainmath.ca/)
   ![image](https://user-images.githubusercontent.com/91283924/159822512-e06ac102-a6da-46ec-894a-e43489ec32f0.png)
 - [X] Our group did our research in finding Population data https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001002&pickMembers%5B0%5D=1.117 
+
+Duration in minutes: 15<br>
+- [X] Did ETL for our Population Data - Joined Electoral Riding Shapefile with Population CSV
+  ![image](https://user-images.githubusercontent.com/91283924/159830932-794ebdf7-17ca-4111-bab7-3783d1cf74f6.png)
+  ![image](https://user-images.githubusercontent.com/91283924/159830975-4e5f522b-b6bb-43c5-a262-725d991b1a5d.png)
+
 
 
 
